@@ -16,6 +16,21 @@ Markdown Format
 Markdown is a simple flat file containing information for pages on a website. More can be learned at this link
 http://whatismarkdown.com/
 
+    Title:Hello World
+    Date:2014-10-08 19:24:47
+    id:1146
+    Category: Category Name/Sub-Category Name
+    Tags: tag1, tag2, tag3
+    Author: wpadmin
+    isparent:
+    summary:Lorem ipsum dolor sit amet, consectetur 
+    --------MEDIA_DATA----------:
+    featuredimage:
+    featuredthumb:
+    <!-- CONTENT BELOW THIS POINT -->
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi ab minus et nihil eveniet facilis temporibus nobis nulla, repudiandae, molestias ducimus quidem architecto, aliquam quis ullam perspiciatis omnis voluptatum vero.
+
+
 Why use this Generator?
 -----------------------------
 There are several online authoring tools used to create and update markdown files. However, this small script will help keep your data organized in a persistent manner to a database.
