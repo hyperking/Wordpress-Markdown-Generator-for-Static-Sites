@@ -25,10 +25,13 @@ http://whatismarkdown.com/
     isparent:
     summary:Lorem ipsum dolor sit amet, consectetur 
     --------MEDIA_DATA----------:
-    featuredimage:
-    featuredthumb:
+    featuredimage:http://cloud.mysite.com/wp-content/uploads/picture.jpg
+    featuredthumb:http://cloud.mysite.com/wp-content/uploads/150x150_picture.jpg
     <!-- CONTENT BELOW THIS POINT -->
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi ab minus et nihil eveniet facilis temporibus nobis nulla, repudiandae, molestias ducimus quidem architecto, aliquam quis ullam perspiciatis omnis voluptatum vero.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+    Eligendi ab minus et nihil eveniet facilis temporibus nobis nulla, 
+    repudiandae, molestias ducimus quidem architecto, aliquam quis ullam
+    perspiciatis omnis voluptatum vero.
 
 
 Why use this Generator?
