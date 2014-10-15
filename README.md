@@ -22,7 +22,7 @@ There are several online authoring tools used to create and update markdown file
 
 Not only that, but using wordpress backend to author your posts without the hassle of knowing markdown short codes are helpful.
 
-**Note: You can also use the flexibility of wordpress custom fields and post types to format you markdown meta data.strong text**
+**Note: You can also use the flexibility of wordpress custom fields and post types to format you markdown meta data.**
 
 Installation Instructions
 =====================
